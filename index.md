@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Emily tries a thing!
 [Link](https://e-navarrete.github.io/uC/Scalings.html)
+[Link](https://github.com/e-navarrete/uC/blob/master/Scalings.html)
 
 ### Markdown
 
