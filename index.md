@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/e-navarrete/uC/edit/gh-pag
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+# Emily tries a thing!
+[Link](https://e-navarrete.github.io/uC/Scalings.html)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,8 +15,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Emily tries a thing!
-[Link](https://e-navarrete.github.io/uC/Scalings.html)
 
 # Header 1
 ## Header 2
